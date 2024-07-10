@@ -32,7 +32,7 @@ Se ha preparado un entorno virtual utilizando una interfaz gráfica de usuario, 
 # Procesamiento y segmentación de la ROI
 
 ## Modelo U-Net 1 – segmentación total de chips
-
+Para el desarrollo del modelo U-Net, se toma como referencia el repositorio de [Link](https://github.com/JACantoral/DL_fundamentals/blob/main/Fundamentals_DL_UNET_4_video_FP16_v2.ipynb)
 # Clasificador CNN
 # Método por conteo de píxeles
 ## Modelo U-Net 2 – segmentación del área defectuosa
