@@ -1,5 +1,5 @@
 # Detección de defectos en papas tipo hojuelas (chips) por visión artificial
-(https://github.com/Sniper202/Detecccion-de-defectos-en-chips-de-papa/blob/main/img/img_originales.png)
+![](https://github.com/Sniper202/Detecccion-de-defectos-en-chips-de-papa/blob/main/img/img_originales.png)
 ## Descripción
 
 Este repositorio contiene los scrips que se desarrollaron para abordar el problema:“Detección de defectos en papas tipo hojuelas (chips) por visión artificial”. El proyecto se encuentra estructurado en 6 secciones:
