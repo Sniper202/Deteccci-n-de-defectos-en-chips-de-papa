@@ -25,7 +25,7 @@ Se ha preparado un entorno virtual utilizando una interfaz gráfica de usuario, 
 - tensorflow 2.15.0
 
 # Adquisición de dataset
-- El dataset que ha servido para el proceso de entrenamiento se encuentra en un repositorio denominado Kaggle: [Link](https://www.kaggle.com/datasets/concaption/pepsico-lab-potato-quality-control)
+- El dataset utilizado para el proceso de entrenamiento se encuentra en un repositorio denominado Kaggle: [Link](https://www.kaggle.com/datasets/concaption/pepsico-lab-potato-quality-control)
 
 
 
