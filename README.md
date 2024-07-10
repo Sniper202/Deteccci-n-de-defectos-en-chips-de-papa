@@ -12,11 +12,6 @@ Este repositorio contiene los scrips que se desarrollaron para abordar el proble
 
 Los modelos U-Net y CNN se han entrenado en Colab; sin embargo, las pruebas de validación han sido compiladas y ejecutadas en un entorno local.
 
-**Tabla de contenidos**
-
-[TOCM]
-
-[TOC]
 # Preparación del entorno virtual
 Se ha preparado un entorno virtual utilizando una interfaz gráfica de usuario, denominada como Anaconda Navigator, python 3.9.16  y jupyter notebook. Las librerías necesarias son:
 - matplotlib
