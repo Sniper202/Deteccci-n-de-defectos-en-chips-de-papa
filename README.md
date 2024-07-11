@@ -25,16 +25,21 @@ Se ha preparado un entorno virtual utilizando una interfaz gráfica de usuario, 
 - tensorflow 2.15.0
 
 # Adquisición de dataset
-- El dataset utilizado para el proceso de entrenamiento se encuentra en un repositorio denominado Kaggle: [Link](https://www.kaggle.com/datasets/concaption/pepsico-lab-potato-quality-control)
-
-
+- El dataset utilizado para el proceso de entrenamiento se encuentra en un repositorio denominado Kaggle: [Link](https://www.kaggle.com/datasets/concaption/pepsico-lab-potato-quality-control) 
 
 # Procesamiento y segmentación de la ROI
-
+- Tener en cuenta que para replicar cualquiera de los modelos, se sugiere leer el siguiente documento:
 ## Modelo U-Net 1 – segmentación total de chips
-Para el desarrollo del modelo U-Net, se toma como referencia el repositorio de [Link](https://github.com/JACantoral/DL_fundamentals/blob/main/Fundamentals_DL_UNET_4_video_FP16_v2.ipynb)
+- Es necesario poseer un conjunto de imágenes con sus respectivas máscaras binarias
+- Para el desarrollo del modelo U-Net, se toma como referencia el repositorio de [Link](https://github.com/JACantoral/DL_fundamentals/blob/main/Fundamentals_DL_UNET_4_video_FP16_v2.ipynb)
+- Los directorios: Generador de máscaras binarias y Modelo U-Net 1 contiene los archivos con los códigos para la creación del conjunto de entrenamiento y desarrollo del modelo. 
 # Clasificador CNN
+- Para empezar con el entrenamiento, es necesario cargar el modelo entrenado: MODELO3_29_01_24.pt
+- El directorio CNN contiene el archivo con el código necesario para desarrollar el modelo CNN
 # Método por conteo de píxeles
 ## Modelo U-Net 2 – segmentación del área defectuosa
-
+- Para replicar este modelo,es necesario poseer un conjunto de imágenes con sus respectivas máscaras binarias.
+- Los archivos necesarios se encuentran disponibles en el directorio: Modelo U-Net 2.
 # Proceso general
+- Para compilar y ejecutar el archivo, es necesario cargar los siguientes modelos: MODELO3_29_01_24.pt, UNETDEFECTV_2_new.pt, modeloCNNUNET.h5
+- nota: el archivo del modelo CNN entrenado se encuentra disponible en: 
