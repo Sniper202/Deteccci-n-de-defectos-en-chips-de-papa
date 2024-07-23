@@ -42,5 +42,5 @@ Se ha preparado un entorno virtual utilizando una interfaz gráfica de usuario, 
 - Los archivos necesarios se encuentran disponibles en el directorio: Modelo U-Net 2.
 # Proceso general
 - Para compilar y ejecutar el archivo, es necesario cargar los siguientes modelos: MODELO3_29_01_24.pt, UNETDEFECTV_2_new.pt, modeloCNNUNET.h5
-- nota: el archivo del modelo CNN entrenado se encuentra disponible en: [Link](https://drive.google.com/file/d/19eeYDzQ66m_oVmRd7-PsgtUZN9wWT8ZJ/view?usp=drive_link) 
+- nota: el archivo del modelo CNN entrenado se encuentra disponible en: [Link](https://drive.google.com/file/d/19eeYDzQ66m_oVmRd7-PsgtUZN9wWT8ZJ/view?usp=sharing) 
 
